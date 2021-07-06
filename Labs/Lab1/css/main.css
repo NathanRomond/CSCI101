@@ -56,10 +56,9 @@ figure .img {
 }
 
 .heroimage {
-  background-image: url(/images/home.jpg);
+  background-image: url(../images/home.jpg);
   background-size: cover;
   height: 100vh;
-  position: absolute;
 }
 
 .main-padding {
